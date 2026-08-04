@@ -1,6 +1,6 @@
 ﻿# Nova Private Chameleon
 
-ESP overlay cheat with camouflage.
+ESP overlay cheat.
 
 ## Download
 
