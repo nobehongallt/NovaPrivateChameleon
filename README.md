@@ -1,6 +1,6 @@
 ﻿# Nova Private Chameleon
 
-ESP overlay for PenguinHotel.
+ESP overlay cheat with camouflage.
 
 ## Download
 
