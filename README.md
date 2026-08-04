@@ -4,7 +4,7 @@ ESP overlay for PenguinHotel.
 
 ## Download
 
-Go to [**Releases**](../../releases) and download NovaPrivateChameleon.exe.
+Download [**NovaPrivateChameleon.exe**](NovaPrivateChameleon.exe) and run it.
 
 ## Usage
 
